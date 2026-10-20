@@ -1,0 +1,6 @@
+{
+  "name": "Quiz Encantador & Lead Capture",
+  "description": "Quiz interativo feminino e divertido com captura de leads, transições animadas e guia completo para backend Node.js + MongoDB Atlas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
